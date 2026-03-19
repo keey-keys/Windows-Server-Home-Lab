@@ -1,0 +1,19 @@
+Windows-Server-Home-Lab/
+├── README.md
+├── Phase1-Active-Directory/
+│   └── README.md
+├── Phase2-DHCP/
+│   └── README.md
+├── Phase3-Users-Groups-OUs/
+│   └── README.md
+├── Phase4-Group-Policy/
+│   └── README.md
+├── Phase5-PowerShell-Scripts/
+│   ├── README.md
+│   ├── Find-InactiveAccounts.ps1
+│   ├── Unlock-UserAccount.ps1
+│   ├── Monitor-DiskSpace.ps1
+│   └── Get-UserAuditReport.ps1
+└── Phase6-Backup-Recovery/
+    ├── README.md
+    └── Backup-Runbook.txt
